@@ -22,5 +22,7 @@ Feel quite great about how my notes look so far.
 
 ## Day 3: Practical Project
 
-Today was exciting! I revised my notes and applied those concepts to build a responsive and clean-coded website in HTML5 & CSS. Tested out my understanding of flexbox to make it work on mobile devices. 
+Today was exciting! I revised my notes and applied those concepts to build a responsive and clean-coded website in HTML5 & CSS. Tested out my understanding of flexbox to make it work on mobile devices.
+
+## Day 4: 
 
