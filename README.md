@@ -30,3 +30,4 @@ Today was exciting! I revised my notes and applied those concepts to build a res
 
 ## Day 6:
 
+## Day 7:
