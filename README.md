@@ -24,7 +24,11 @@ Feel quite great about how my notes look so far.
 
 Today was exciting! I revised my notes and applied those concepts to build a responsive and clean-coded website in HTML5 & CSS. Tested out my understanding of flexbox to make it work on mobile devices.
 
-## Day 4: 
+## Day 4: Practical project II
+
+Switched from Atom Editor to VScode today.
+
+Also completed building another responsive website using HTML and CSS by following along to @developedbyed's tutorials.
 
 ## Day 5: 
 
