@@ -32,6 +32,10 @@ Also completed building another responsive website using HTML and CSS by followi
 - Revised my notes
 - Completed the chapters on  Visual Design on @freeCodeCamp
 
-## Day 6:
+## Day 6: Applied Accessibility 
+
+Learned about a11y today and realized how important it is to a significant numbers of users on the web who are overlooked more often than not.
+
+Want to focus on this section well to get my fundamentals right.
 
 ## Day 7:
