@@ -39,3 +39,5 @@ Learned about a11y today and realized how important it is to a significant numbe
 Want to focus on this section well to get my fundamentals right.
 
 ## Day 7:
+
+## Day 8:
