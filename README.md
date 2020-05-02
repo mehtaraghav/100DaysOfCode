@@ -47,3 +47,7 @@ Want to focus on this section well to get my fundamentals right.
 ## Day 10:
 
 ## Day 11:
+
+## Day 12:
+
+## Day 13:
