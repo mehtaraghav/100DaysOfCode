@@ -51,3 +51,7 @@ Want to focus on this section well to get my fundamentals right.
 ## Day 12:
 
 ## Day 13:
+
+## Day 14:
+
+## Day 15:
