@@ -59,3 +59,5 @@ Want to focus on this section well to get my fundamentals right.
 ## Day 16:
 
 ## Day 17:
+
+## Day 18:
