@@ -73,3 +73,5 @@ Want to focus on this section well to get my fundamentals right.
 ## Day 23:
 
 ## Day 24:
+
+## Day 25:
