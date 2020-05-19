@@ -83,3 +83,5 @@ Want to focus on this section well to get my fundamentals right.
 ## Day 28:
 
 ## Day 29:
+
+## Day 30:
