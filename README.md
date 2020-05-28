@@ -100,4 +100,6 @@ Want to focus on this section well to get my fundamentals right.
 
 ## Day 37:
 
-## day 38:
+## Day 38:
+
+## Day 39:
